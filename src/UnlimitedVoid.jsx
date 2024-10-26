@@ -1,23 +1,26 @@
+import Header from "./Header";
+
 const UnlimitedVoid = () => {
   return (
     <div>
-      <h1>Unlimited Void</h1>
+      <Header />
+      <h1><span className="color2">Unlimited Void</span></h1>
 
       <p>
-        Unlimited Void: Satoru Gojo, a prominent character in Jujutsu Kaisen,
-        possesses one of the most potent Domain Expansions known as
-        &quot;Unlimited Void.&quot; This exceptional technique immerses both the
+        <span className="color">Unlimited Void</span>: <span className="color">Satoru Gojo</span>, a prominent character in Jujutsu Kaisen,
+        possesses one of the most potent <span className="color">Domain Expansions</span> known as
+        &quot;<span className="color">Unlimited Void</span>.&quot; This exceptional technique immerses both the
         user and the target inside the Limitless itself—a vast void filled with
         overwhelming information. The sheer volume of information incapacitates
-        the target, rendering them immobile and defenseless.
+        the target, rendering them <span className="color">immobile</span> and <span className="color">defenseless</span>.
       </p>
       <p>
-        Unparalleled Power: &quot;Unlimited Void&quot; stands as one of the most
+        <span className="color">Unparalleled Power</span>: &quot;<span className="color">Unlimited Void</span>&quot; stands as one of the most
         abstract and powerful domains in the series. The transcendental nature
-        of this expansion showcases Gojo&apos;s omnipotence, making it
+        of this expansion showcases <span className="color">Gojo&apos;s</span>; omnipotence, making it
         challenging for adversaries to contend with the sheer force and
-        complexity of the domain. Notably, Gojo is one of the few individuals
-        capable of using Domain Expansion multiple times in a day, highlighting
+        complexity of the domain. Notably, <span className="color">Gojo</span> is one of the few individuals
+        capable of using <span className="color">Domain Expansion</span> multiple times in a day, highlighting
         the rarity and mastery required for such a feat.
       </p>
     </div>
