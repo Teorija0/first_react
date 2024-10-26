@@ -60,3 +60,15 @@
   color: rgb(214, 26, 214);
 
 }
+/* Centered header styling */
+.header {
+  padding: 10px;
+  margin: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  z-index: 10;
+  background-color: rgb(22, 22, 22);
+}
